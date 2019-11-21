@@ -1,7 +1,7 @@
 {
   "name": "allsettled-polyfill",
-  "version": "1.0.0",
-  "description": "Promise.allSettled polyfill",
+  "version": "1.0.1",
+  "description": "Simple polyfill for Promise.allSettled - no dependencies - Uses default implementation if available.",
   "main": "index.js",
   "repository": "https://github.com/amrayn/allSettled-polyfill",
   "author": "Amrayn Web Services",
