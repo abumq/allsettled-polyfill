@@ -18,9 +18,13 @@ yarn add allsettled-polyfill
 
 ## Usage
 
+```js
+import 'allsettled-polyfill';
+
+Promise.allSettled([Promise.resolve(2), Promise.resolve(3), Promise.reject(555)])
 ```
 
-```
+### Log rejection
 
 ```js
 import 'allsettled-polyfill';
