@@ -1,0 +1,9 @@
+{
+  "name": "allSettled-polyfill",
+  "version": "1.0.0",
+  "description": "Promise.allSettled polyfill",
+  "main": "index.js",
+  "repository": "https://github.com/amrayn/allSettled-polyfill",
+  "author": "Amrayn Web Services",
+  "license": "MIT"
+}
