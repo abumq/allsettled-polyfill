@@ -9,7 +9,7 @@ A simple polyfill with zero-dependecies for `Promise.allSettled`. Uses default i
 Using NPM
 
 ```
-npm -i allsettled-polyfill --save
+npm i allsettled-polyfill --save
 ```
 
 ```
